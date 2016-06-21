@@ -1,1 +1,35 @@
-/home/jlgb/.xchm
+[Position]
+xOrig=0
+yOrig=88
+width=853
+height=659
+[Paths]
+lastOpenedDir=
+[Fonts]
+normalFontFace=
+fixedFontFace=
+size=12
+[Sash]
+leftMargin=179
+[Recent]
+file1=/home/jlgb/media/libros/in/JavaScript The Good Parts.chm
+file2=/home/jlgb/Escritorio/en proceso-lecturas/MUD Game Programming[link].chm
+file3=/home/jlgb/torrent/Artificial Intelligence , Lisp and Prolog Complete/Artificial Intelligence/Machine learning/Pattern recognition/Pattern Recognition with Neural Networks in C++ - Abhijit S. Pandya, Robert B. Macy.chm
+file4=/home/jlgb/torrent/Artificial Intelligence , Lisp and Prolog Complete/Artificial Intelligence/Machine learning/An Introduction to Support Vector Machines and Other Kernel-based Learning Methods - Nello Cristianini , John Shawe.chm
+file5=/home/jlgb/torrent/Artificial Intelligence , Lisp and Prolog Complete/Artificial Intelligence/Intelligent Systems/Hybrid architectures for intelligent systems - Lotfi A. Zadeh.chm
+file6=/home/jlgb/media/libros/McFarlane - Rapid Application Development with Mozilla [XUL] (Prentice, 2003).chm
+file7=/home/jlgb/media/libros/comp/metodos agiles/Prentice.Hall.Test-Driven.Development.A.Practical.Guide.chm
+file8=/home/jlgb/media/libros/comp/metodos agiles/Test-driven Development By Example - Addison Wesley.chm
+file9=/home/jlgb/media/libros/comp/-Computer Networks 4th Ed - Andrew S (copia). Tanenbaum.chm
+[Search]
+partialWords=0
+titlesOnly=0
+[Bookmarks]
+[Bookmarks/.home.jlgb.media.libros.in.JavaScript\ The\ Good\ Parts.chm]
+noEntries=3
+bookmark_0_title=Section 3.1. Object Literals
+bookmark_0_url=/final/object_literals.html
+bookmark_1_title=Section 3.7. Enumeration
+bookmark_1_url=/final/enumeration.html
+bookmark_2_title=Section 4.10. Closure
+bookmark_2_url=/final/closure.html
