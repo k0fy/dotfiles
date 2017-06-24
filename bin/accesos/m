@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=MICRO
+Comment=MICRO
+Type=Application
+Exec=sh /home/jlgb/bin/micState.sh
+Icon=/home/jlgb/bin/accesos/audio-input-microphone1.png
+X-XFCE-Source=file:///home/jlgb/bin/accesos/m.desktop
+Path=
+Terminal=false
+StartupNotify=false

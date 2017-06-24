@@ -1,0 +1,105 @@
+# ver 1.0
+
+# unsets color to term's fg color
+N="\033[0m"
+
+# regular colors
+K="\033[0;30m"    # black
+R="\033[0;31m"    # red
+G="\033[0;32m"    # green
+Y="\033[0;33m"    # yellow
+B="\033[0;34m"    # blue
+M="\033[0;35m"    # magenta
+C="\033[0;36m"    # cyan
+W="\033[0;37m"    # white
+
+botella1_0(){
+  printf " __\n )( \n(_')\n"
+}
+
+botella1_2c(){
+  printf "${B}   __ ${N}\n${B}   )( ${N} ${1}\n${B}  (_${Y}'${B})${N} ${2}\n"
+}
+
+botella1_3c(){
+  printf "${B}   __ ${N} ${1}\n${B}   )( ${N} ${2}\n${B}  (_${Y}'${B})${N} ${3}\n"
+}
+
+magic_file_1(){
+# by jlgb
+  printf "      __\n   __ )(\n   )((_Magic\n  (_')( FiLe..\n    (__) $1\n"
+}
+
+info1_2(){
+  # by jlgb
+  printf "      __   \n   __ )(   \n   )((__)  \n  (_')(  $1\n    (__) $2\n"
+}
+
+msg1_3_c(){
+  # by jlgb
+  printf "\n $R\|||/$N $1\n $B(${Y}o 0$B)$N $2 \n  $B(_)$N  $3\n"
+}
+
+msg1_3(){
+  # by jlgb
+  printf "\n \|||/ $1 \n (o 0) $2 \n  (_)  $3 \n"
+}
+
+msg2_3(){
+  # by jlgb
+  printf "         \n \|||/   \n (o 0) $1\n  (_)  $2\n    $3   \n"
+}
+
+
+key1_4(){
+  echo "  .--.                 "
+  echo " /.-. '----------.     $1 "
+  echo " \'-' .--\"--\"\"-\"-'     $2 "
+  echo "  '--'                 $3 "
+  echo "                 $4       "
+}
+
+key2_4(){
+  echo "  __           $1 "
+  echo " /o \_____     $2 "
+  echo " \__/-=\"=\"'    $3 "
+  echo "            $4    "
+}
+
+key3_4(){
+  echo "   __      "
+  echo "  / o\     "
+  echo "  \_ /  $1 "
+  echo "   <|   $2 "
+  echo "   <|   $3 "
+  echo "   <|   $4 "
+  echo "    '      "
+}
+
+key4_4(){
+  echo "  ____             "
+  echo " , =, ( _________  $1 "
+  echo " | ='  (VvvVvV--'  $2 "
+  echo " |____(            $3 "
+  echo "         $4           "
+}
+
+
+posima1_2(){
+  # by jlgb
+  printf "     ][  $1 \n  )(/__\ $2 \n [__]       \n"
+}
+
+bt1(){
+  # by jlgb
+  printfs "  __    ___    \n  ][    )-(__  \n (__)][(___)(  \n  H /__\  [__] \n [_]           \n"
+}
+
+btC(){
+  # by jlgb
+  echo -e "  $R__    $B___     $N"
+  echo -e "  $R][    $B)-($Y__   $N"
+  echo -e " $R(__)$G][$B(___$Y)(   $N"
+  echo -e " $N H $G/__\  $Y[__]  $N"
+  echo -e " $N[_]            $N"
+}
